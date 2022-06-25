@@ -1,0 +1,16 @@
+C:\Users\User\DotNet WellaProject\assignment6\bin\Debug\net5.0\assignment6.exe
+C:\Users\User\DotNet WellaProject\assignment6\bin\Debug\net5.0\assignment6.deps.json
+C:\Users\User\DotNet WellaProject\assignment6\bin\Debug\net5.0\assignment6.runtimeconfig.json
+C:\Users\User\DotNet WellaProject\assignment6\bin\Debug\net5.0\assignment6.runtimeconfig.dev.json
+C:\Users\User\DotNet WellaProject\assignment6\bin\Debug\net5.0\assignment6.dll
+C:\Users\User\DotNet WellaProject\assignment6\bin\Debug\net5.0\ref\assignment6.dll
+C:\Users\User\DotNet WellaProject\assignment6\bin\Debug\net5.0\assignment6.pdb
+C:\Users\User\DotNet WellaProject\assignment6\obj\Debug\net5.0\assignment6.csproj.AssemblyReference.cache
+C:\Users\User\DotNet WellaProject\assignment6\obj\Debug\net5.0\assignment6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\DotNet WellaProject\assignment6\obj\Debug\net5.0\assignment6.AssemblyInfoInputs.cache
+C:\Users\User\DotNet WellaProject\assignment6\obj\Debug\net5.0\assignment6.AssemblyInfo.cs
+C:\Users\User\DotNet WellaProject\assignment6\obj\Debug\net5.0\assignment6.csproj.CoreCompileInputs.cache
+C:\Users\User\DotNet WellaProject\assignment6\obj\Debug\net5.0\assignment6.dll
+C:\Users\User\DotNet WellaProject\assignment6\obj\Debug\net5.0\ref\assignment6.dll
+C:\Users\User\DotNet WellaProject\assignment6\obj\Debug\net5.0\assignment6.pdb
+C:\Users\User\DotNet WellaProject\assignment6\obj\Debug\net5.0\assignment6.genruntimeconfig.cache
